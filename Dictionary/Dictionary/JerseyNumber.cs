@@ -9,6 +9,7 @@ namespace Dictionary
     class JerseyNumber
     {
 
+        //class to keep track of the jersey number
         public string Player { get; private set; }
         public int YearRetired { get; private set; }
 
